@@ -1,0 +1,68 @@
+@charset "UTF-8";
+.hg {
+	margin-top: 66px;
+}
+.brand {
+	padding-top: 1.em;
+	padding-right: 1.em;
+	padding-bottom: 1.em;
+	padding-left: 1.em;
+	padding-right: 715px;
+	width: 108%;
+	margin-left: 65px;
+}
+.prek {
+	margin-left: -564px;
+	margin-right: 466px;
+}
+
+@media screen and (orientation:landscape){
+.brand {
+	padding-right: 0px;
+	margin-left: 72px;
+	padding-left: 40px;
+	padding-top: 18px;
+	margin-right: 3px;
+}
+.DF {
+	text-align: center;
+	float: none;
+	position: absolute;
+	padding-left: 0px;
+	width: 160px;
+}
+}
+
+@media screen{
+.brand {
+	width: 343px;
+	height: 0px;
+	margin-top: -14px;
+}
+}
+.contacto {
+}
+.AK {
+}
+.plopl {
+	width: 100%;
+	text-align: center;
+}
+
+@media screen{
+.brand {
+	width: 139px;
+}
+}
+#condeba_logo {
+	width: 7em;
+}
+
+@media screen{
+.navbar-header .navbar-brand.brand #condeba_logo {
+	margin-left: -48px;
+}
+}
+.rotten {
+	height: 15%;
+}
